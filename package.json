@@ -1,0 +1,24 @@
+{
+  "name": "ankit_personal_website",
+  "version": "1.0.0",
+  "description": "Personal Webiste for Ankit Agarwal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagarwal1999/myPersonalWebsite.git"
+  },
+  "keywords": [
+    "[\"Ankit",
+    "Agarwal\"",
+    "\"Portfolio\"]"
+  ],
+  "author": "Ankit Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagarwal1999/myPersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/aagarwal1999/myPersonalWebsite#readme"
+}
